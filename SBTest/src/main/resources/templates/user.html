@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns="http:www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<!-- 我的名字是：<span th:text=${user.name}></span>
+ -->
+
+	<h3>人员信息</h3>
+	<table>
+		<tr>
+			<td>编号</td>
+			<td>姓名</td>
+			<td>爱好</td>
+		</tr>
+		<tr th:each="user:${users}" th:object="${user}">
+			<td th:text="${user.id}  "></td>
+			<td th:text="${user.name}"></td>
+			<td th:text="${user.hobby}"></td>
+		</tr>
+	</table>
+
+
+</body>
+</html>
