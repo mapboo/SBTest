@@ -9,7 +9,9 @@ http://m.study.163.com/provider/480000002171788/index.htm
 本源码是 Spring Boot入门初体验 教学实例源码，建议先观看源码，然后再下载源码进行实践联系。
 
 
-Spring Boot入门初体验 课程大纲：
+Spring Boot入门初体验 https://study.163.com/course/introduction/1209708827.htm
+
+课程大纲：
 
 第一节：课程简介
 
