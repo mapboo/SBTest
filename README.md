@@ -37,4 +37,4 @@ Spring Boot入门初体验 https://study.163.com/course/introduction/1209708827.
 第十一节：课程大纲PDF文档
 
 
-本源码是 Spring Boot入门初体验 教学实例源码，建议先观看视频，然后再下载源码进行实践练习。
+本源码是 Spring Boot入门初体验 教学实例项目完整源码，建议先观看视频，然后再下载源码进行实践练习。
