@@ -1,13 +1,16 @@
 # SBTest
-欢迎大家访问学习：
-网易云 - 群鸿课堂 
+欢迎大家访问群鸿课堂学习：
+网易云
 http://m.study.163.com/provider/480000002171788/index.htm
+
+51CTO学院
+https://edu.51cto.com/lecturer/14749093.html
 
 课程名称：
 
 Spring Boot入门初体验
-https://study.163.com/course/introduction/1209708827.htm
-
+网易云：https://study.163.com/course/introduction/1209708827.htm
+51CTO学院：https://edu.51cto.com/sd/b3bbc
 
 适用人群：
 
